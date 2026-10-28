@@ -8,6 +8,7 @@ public class Main {
         numbers.add(30);
 
         System.out.println("Numbers: " + numbers);
+        System.out.println("Total: " + numbers.size());
     }
 
     public static void main(String[] args) {
